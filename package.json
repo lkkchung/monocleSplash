@@ -1,0 +1,22 @@
+{
+  "name": "monoclesplash",
+  "version": "1.0.0",
+  "description": "The startup animation for Monocle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkkchung/monocleSplash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkkchung/monocleSplash/issues"
+  },
+  "homepage": "https://github.com/lkkchung/monocleSplash#readme",
+  "dependencies": {
+    "p5": "^1.4.0"
+  }
+}
